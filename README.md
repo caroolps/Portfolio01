@@ -15,9 +15,8 @@ LIST OF ACADEMIC PROJECTS:
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-**i. SOBRE O PROJETO.**
+**INTRODUÇÃO**
 
-Introdução
 Foi proposto a implantação de um Web bot, que consiste num programa ou conjunto de instruções em código que verifica a teia mundial (W.W.W.) de forma metódica ou automatizada. Este processo tem no seu cerne uma função básica chamada de Web crawling ou spidering. A literatura atual tende a identificar o Web crawler e o Web bot como sinônimos. Para fins deste projeto, o web bot [doravante denominado WB] consiste num robô da Internet que vasculha por dados determinados nas instruções do código de programação e geral certos resultados que tenham valor para o cliente (product owner).
 O WB podem ser utilizados para copiar dados de páginas da Internet que se queira vasculhar, verificando links e validar códigos HTML. Além disso, podem ser utilizados para obter dados especificados previamente, tal qual endereços de e-mail (geralmente para que se crie uma lista de SPAM), ou dados estatísticos em geral.
 Com uma variedade virtualmente infindável de usos, os WB podem ser utilizados tanto para ferramentas de suporte à automação de tarefas com objetivos benignos como para prejudicar pessoas, variando desde serviços de atendimento ao consumidor (chat bots), passando por monitoramento de informações esparsas sem controle ou repositório oficial até mesmo ataques cibernéticos por civis e militares (DDOS - distributed denial of service attack, ou ataques distribuídos de negação de serviço pela exaustão do servidor que não suporta a quantidade de requisições que um robô da Internet pode requisitar).
@@ -92,23 +91,20 @@ As bibliotecas mais importantes foram:
 
 **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa redondeza. Ficando definido o mapeamento de roubo de Veículos, furto de veículos e roubo de celular.
-
-Nesse passo, a arquitetura ficou definida:
-![20211026-210335](https://user-images.githubusercontent.com/61089745/141654489-ed00bfaf-4def-45bc-bf5f-a66ad0c82cf9.png)
+Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa região. Ficando definido o mapeamento por de roubo de Veículos, furto de veículos e roubo de celular.
 
 ![20211026-202145](https://user-images.githubusercontent.com/61089745/141654512-9f4b0c92-4ff9-4652-ba2d-e76891106934.png)
 
 
-Como eu vim da área administrativa sem nunca ter contato com a parte de programação foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados, como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Com aprendizado a parte das matérias da FATEC, acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projet Web Danzo.
+Como eu estava vindo da área administrativa, sem nunca ter contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto, como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projet Web Danzo.
 
-HTML: é uma linguagem de marcação utilizada na construção de páginas na Web. Com ela eu desenvolvi o esqueleto do projeto usandos as tags:
-<html>: inicia e finaliza o projeto com essa tag;
-<head>: recebe todas as informações básicas da página, como o título, links de elementos externos, etc 
-<title>: título da páginha; 
-<body>: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
+O HTML: é uma linguagem de marcação utilizada na construção de páginas na Web. Com ela eu desenvolvi o esqueleto do projeto usandos as tags:
+(<html>): inicie e finalizei o projeto web com essa tag;
+(<head>): inserir todas as informações básicas da página, como o título, links de elementos externos, etc; 
+(<title>): onde informei o título da página; 
+(<body>): consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
 
-Bootstrap: é um framework web utilizado para estilizar o projeto web.
+Bootstrap: é um framework web foi utilizado para estilizar o projeto web.
 
 GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer para o usuário uma análise de fácil compreensão, após pesquisar encontrei o GoogleChart para realizar os gráficos mensais dos índices de criminalidade;
 
@@ -116,22 +112,35 @@ GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer 
 
 **IV - APRENDIZADOS EFETIVOS.**
 
-Tivemos o primeiro contato com a Metodologia Agil:
+Tivemos o primeiro contato com a Metodologia Agil: Scrum é uma metodologia utilizada para gerenciar o trabalho em produtos complexos desde o início de 1990.
+O termo “scrum” vem do meio esportivo: no jogo de rugby este termo refere-se ao reinício da partida após uma infração leve, tratando-se, em elaboração de um projeto como uma área ou tela estrutura (framework estrutural) para colacionar ideias.
+É composta por ciclos de atividades programadas — os sprints —, com planejamento de tarefas e datas de início e de fim determinados.
+Um framework no qual pessoas podem solucionar problemas complexos e soluções adaptativas, enquanto criam de forma produtiva agregando o mais alto valor possível.
+Ferramentas de Scrum.
  
-com as ferramentas para acompanhamento do projeto: Slack
+Canal de comunuicação SLACK: Não tinha conhecimento sobre esse serviço e por fim o Slack se tornou uma das principais ferramentas utilizadas para o desenvolvimento do Projeto Integrador, pois é um meio de comunicação ágil e instantâneo, por este canal de comunicação, decidimos os próximos encontros presenciais, saneamentos de dúvidas das atividades desenvolvidas, etc.
  
-Conhecimneto no repositório no Gitlab:
- 
-Primeiro contato com a linguagem Python:
- 
-Primeiro contato com o banco de dados:
- 
-Aplicamos a lógica de programação no desenvolvimento do projeto API;
- 
-Grandes ganhos de conhecimento no Front-end;
- 
+Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos, foi nos apresentados essa tecnologia que utilizamos até hoje. Aprendemos o principais comandos como: 
 
+- Adicionar um diretório em específico: git add meu_diretorio
+- Clonar um repositório: git clone
+- Adicionar todos os arquivos/diretórios: git add .	
+- Enviar arquivos para o repositório: git push
+- Atualizar os arquivos da branch atual: git pull
 
+Grandes ganhos de conhecimento no Front-end que estamos usando até hoje e nos aperfeiçoando cada vez mais, aprendemos sobre:
+
+O HTML: é uma linguagem de marcação utilizada na construção de páginas na Web.
+(<html>): Deve iniciar e finalizar o projeto web com essa tag;
+(<head>): inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
+(<title>): informa o título da página; 
+(<body>): consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
+
+Bootstrap: é um framework web foi utilizado para estilizar a página web.
+
+GoogleChart: biblioteca para geração de gráficos;
+
+ 
 Ao final do projeto, percebemos que a utilização da solução poderia ser aproveitada por muitos recortes sociaisi:
 
 •	Compra/Aluguel de casa;  
