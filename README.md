@@ -48,20 +48,20 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 
 ![20211026-205948](https://user-images.githubusercontent.com/61089745/141654319-476e8427-220e-482b-a289-de10f10399b3.png)
 
-![](imgs/20211026-210008.png)
+![20211026-210008](https://user-images.githubusercontent.com/61089745/141654347-d9c9a67f-6d83-42da-a74d-f9a642c87c6d.png)
 
-![](imgs/20211026-210019.png)
+![20211026-210019](https://user-images.githubusercontent.com/61089745/141654358-6f0af4f7-3206-4431-bd10-2083ab2060eb.png)
 
-![](imgs/20211026-210044.png)
+![20211026-210044](https://user-images.githubusercontent.com/61089745/141654366-f3a1d2ad-51ee-4cce-91b1-9d8532462026.png)
 
-![](imgs/20211026-210057.png)
+![20211026-210057](https://user-images.githubusercontent.com/61089745/141654374-478e1889-1416-4001-aa37-3ba2fe5bb306.png)
 
 
 3 – Tratamento de arquivo obtido: criação de pasta local, renomeação;​
 
 4 – Tratamento de dados: Leitura do arquivo obtido, coluna por coluna LISTAS), para  inserção em BD;​
 
-![](imgs/20211026-210117.png)
+![20211026-210117](https://user-images.githubusercontent.com/61089745/141654394-86b1efdc-3213-4dde-99bc-9aed04b2841f.png)
 
 5 – Inserção incremental em BD Sqlite3;​
 
@@ -69,7 +69,7 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 
 7 – Apresentação dos dados: mapa de calor, barras; ​
 
-![](imgs/20211026-210136.png)
+![20211026-210136](https://user-images.githubusercontent.com/61089745/141654411-19785ac1-3ee0-417b-bef6-5846348bdd2d.png)
 
 
 **II - TECNOLOGIAS**
@@ -94,9 +94,11 @@ As bibliotecas mais importantes foram:
 
 Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa redondeza. Ficando definido o mapeamento de roubo de Veículos, furto de veículos e roubo de celular.
 
-Nesse passo, a arquitetura ficou assim definnida:
-![](imgs/20211026-210335.png)
-, 
+Nesse passo, a arquitetura ficou definida:
+![20211026-210335](https://user-images.githubusercontent.com/61089745/141654489-ed00bfaf-4def-45bc-bf5f-a66ad0c82cf9.png)
+
+![20211026-202145](https://user-images.githubusercontent.com/61089745/141654512-9f4b0c92-4ff9-4652-ba2d-e76891106934.png)
+
 
 Como eu vim da área administrativa sem nunca ter contato com a parte de programação foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados, como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Com aprendizado a parte das matérias da FATEC, acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projet Web Danzo.
 
