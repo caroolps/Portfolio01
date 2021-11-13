@@ -99,10 +99,11 @@ Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisõ
 Como eu estava vindo da área administrativa, sem nunca ter contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto, como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projet Web Danzo.
 
 O HTML: é uma linguagem de marcação utilizada na construção de páginas na Web. Com ela eu desenvolvi o esqueleto do projeto usandos as tags:
-(<html>): inicie e finalizei o projeto web com essa tag;
-(<head>): inserir todas as informações básicas da página, como o título, links de elementos externos, etc; 
-(<title>): onde informei o título da página; 
-(<body>): consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
+
+-html: inicie e finalizei o projeto web com essa tag;
+-head: inserir todas as informações básicas da página, como o título, links de elementos externos, etc; 
+-title: onde informei o título da página; 
+-body: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
 
 Bootstrap: é um framework web foi utilizado para estilizar o projeto web.
 
@@ -131,10 +132,11 @@ Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para 
 Grandes ganhos de conhecimento no Front-end que estamos usando até hoje e nos aperfeiçoando cada vez mais, aprendemos sobre:
 
 O HTML: é uma linguagem de marcação utilizada na construção de páginas na Web.
-(html): Deve iniciar e finalizar o projeto web com essa tag;
-(head): inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
-(title): informa o título da página; 
-(body): consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
+
+-html: Deve iniciar e finalizar o projeto web com essa tag;
+-head: inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
+-title: informa o título da página; 
+-body: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
 
 Bootstrap: é um framework web foi utilizado para estilizar a página web.
 
