@@ -1,10 +1,10 @@
 LIST OF ACADEMIC PROJECTS:
 
-[PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapper - Public Safety Monitor*](https://github.com/caroolps/Portfolio01) 
+[PROJECT-SEMESTRE-01-2019.2 - * DANZO - Mapeador de Criminalidade ao Redor da FATEC*](https://github.com/caroolps/Portfolio01) 
 
-[PROJECT-SEMESTRE-02-2020.1 - *Java Stand Alone GANTT Chart tool*](https://github.com/caroolps/Portfolio02)
+[PROJECT-SEMESTRE-02-2020.1 - *GANTT Chart*](https://github.com/caroolps/Portfolio02)
 
-[PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/caroolps/Portfolio03) 
+[PROJECT-SEMESTRE-03-2020.2 - *Cadastro Positivo*](https://github.com/caroolps/Portfolio03) 
 
 [PROJECT-SEMESTRE-04-2021.1 - *Oracle HR Solution  for searching candidates via API* ](https://github.com/caroolps/Portfolio04) 
 
@@ -100,10 +100,13 @@ Como eu estava vindo da área administrativa, sem nunca ter contato com a parte 
 
 O HTML: é uma linguagem de marcação utilizada na construção de páginas na Web. Com ela eu desenvolvi o esqueleto do projeto usandos as tags:
 
--html: inicie e finalizei o projeto web com essa tag;
--head: inserir todas as informações básicas da página, como o título, links de elementos externos, etc; 
--title: onde informei o título da página; 
--body: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
+- html: inicie e finalizei o projeto web com essa tag;
+
+- head: inserir todas as informações básicas da página, como o título, links de elementos externos, etc; 
+
+- title: onde informei o título da página; 
+
+- body: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
 
 Bootstrap: é um framework web foi utilizado para estilizar o projeto web.
 
@@ -133,10 +136,13 @@ Grandes ganhos de conhecimento no Front-end que estamos usando até hoje e nos a
 
 O HTML: é uma linguagem de marcação utilizada na construção de páginas na Web.
 
--html: Deve iniciar e finalizar o projeto web com essa tag;
--head: inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
--title: informa o título da página; 
--body: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
+- html: Deve iniciar e finalizar o projeto web com essa tag;
+
+- head: inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
+
+- title: informa o título da página; 
+
+- body: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
 
 Bootstrap: é um framework web foi utilizado para estilizar a página web.
 
