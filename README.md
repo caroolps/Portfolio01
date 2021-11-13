@@ -1,29 +1,27 @@
 LIST OF ACADEMIC PROJECTS:
 
-[PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapper - Public Safety Monitor*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+[PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapper - Public Safety Monitor*](https://github.com/caroolps/Portfolio01) 
 
-[PROJECT-SEMESTRE-02-2020.1 - *Java Stand Alone GANTT Chart tool*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
+[PROJECT-SEMESTRE-02-2020.1 - *Java Stand Alone GANTT Chart tool*](https://github.com/caroolps/Portfolio02)
 
-[PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE) 
+[PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/caroolps/Portfolio03) 
 
-[PROJECT-SEMESTRE-04-2021.1 - *Oracle HR Solution  for searching candidates via API* ](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION) 
+[PROJECT-SEMESTRE-04-2021.1 - *Oracle HR Solution  for searching candidates via API* ](https://github.com/caroolps/Portfolio04) 
 
-[PROJECT-SEMESTRE-05-2021.2 - *Pentaho & Data Warehouse Analytics of Education* ](https://gitlab.com/rafaelEstevam/back-educalytics) 
+[PROJECT-SEMESTRE-05-2021.2 - *Pentaho & Data Warehouse Analytics of Education* ](https://github.com/caroolps/Portfolio05) 
 
 
 **FIRST PROJECT, SEMESTRE-01-2019.2 - *Python Web Scrapping - Public Safety Monitor***
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-**i. ABOUT THIS PROJECT.**
+**i. SOBRE O PROJETO.**
 
-The first project in the first semestre was evolutionary, although hectic.
+Introdução
+Foi proposto a implantação de um Web bot, que consiste num programa ou conjunto de instruções em código que verifica a teia mundial (W.W.W.) de forma metódica ou automatizada. Este processo tem no seu cerne uma função básica chamada de Web crawling ou spidering. A literatura atual tende a identificar o Web crawler e o Web bot como sinônimos. Para fins deste projeto, o web bot [doravante denominado WB] consiste num robô da Internet que vasculha por dados determinados nas instruções do código de programação e geral certos resultados que tenham valor para o cliente (product owner).
+O WB podem ser utilizados para copiar dados de páginas da Internet que se queira vasculhar, verificando links e validar códigos HTML. Além disso, podem ser utilizados para obter dados especificados previamente, tal qual endereços de e-mail (geralmente para que se crie uma lista de SPAM), ou dados estatísticos em geral.
+Com uma variedade virtualmente infindável de usos, os WB podem ser utilizados tanto para ferramentas de suporte à automação de tarefas com objetivos benignos como para prejudicar pessoas, variando desde serviços de atendimento ao consumidor (chat bots), passando por monitoramento de informações esparsas sem controle ou repositório oficial até mesmo ataques cibernéticos por civis e militares (DDOS - distributed denial of service attack, ou ataques distribuídos de negação de serviço pela exaustão do servidor que não suporta a quantidade de requisições que um robô da Internet pode requisitar).
 
-Without significant contact with the technological resources needed for a working application, there was an imersion in new vocabulary, colleagues and procedures.
-
-Eventually, a web (bot) scrapper was delivered, plotting a heat map of crime in the surrounding of the school, extracting data from the São Paulo State website.
-
-For academic purposes, the description below will be delivered in Portuguese, though I am available to speak about this project in full English should you be interested in hiring me. Here, I acted as P.O. and second S.M. and R&D agent.
  
 
 I - DESCRIÇÃO DO PROJETO.
@@ -34,7 +32,7 @@ Houve dificuldades de natureza humana, estrutural e tecnológica. No primero sem
 
 Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
 
-Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redonndezas de seu prédio. Ao final, verificamos a possibilidade de comerciaização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
+Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comerciaização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
 
 Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
 
@@ -76,9 +74,9 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 
 **II - TECNOLOGIAS**
 
-Em fase embrionária de aprendizado, a euipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
+Em fase inicial do aprendizado, a equipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
 
-No contexto do Python, contamos com a orientação do Docente e muita pesquisa em fóruns virtuais  especializados para implementar blocos de códigos com propósito específico.
+No contexto do Python, contamos com a orientação do Docente e muita pesquisa em fóruns virtuais especializados para implementar blocos de códigos com propósito específico.
 
 As bibliotecas mais importantes foram:
 
@@ -86,61 +84,51 @@ As bibliotecas mais importantes foram:
 
 -  pandas: agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "Python para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados. Com meu conhecimento prévio na área jurídica, tonou-se mais fácil explicar conceitos e etender o que seria mais adequado demonstrar.
 
--  folium: 
-- flask: 
-- flask_googlecharts: 
+-  folium:  biblioteca do Python que facilita a visualização dos dados em um mapa interativo, no projeto essa bibilioteca nos auxiliou a manipular os dados no mapa de calor que que mostrava as regiões que com mais índice de criminalidade ao redor da Fatec.
+
+- flask: o Flask é um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento.
+
+- flask_googlecharts: é uma biblioteca para geração de gráficos, por ser uma das melhores bibiliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
 
 **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-A definição do MVP (MINIMUM VIABLE PRODUCT) foi mais simples com minha formação na área jurídica e profissional, tanto no público como no privado.
+Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa redondeza. Ficando definido o mapeamento de roubo de Veículos, furto de veículos e roubo de celular.
 
 Nesse passo, a arquitetura ficou assim definnida:
 ![](imgs/20211026-210335.png)
 , 
 
-![](imgs/20211026-202145.png)
-Com nosso método de 'competting codes' e com o curso extracurricuar que recebemos na FATEC, consegui chegar ao funcionamento da bibblioteca selenium.
+Como eu vim da área administrativa sem nunca ter contato com a parte de programação foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados, como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Com aprendizado a parte das matérias da FATEC, acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projet Web Danzo.
 
-![](imgs/20211026-202416.png)
+HTML: é uma linguagem de marcação utilizada na construção de páginas na Web. Com ela eu desenvolvi o esqueleto do projeto usandos as tags:
+<html>: inicia e finaliza o projeto com essa tag;
+<head>: recebe todas as informações básicas da página, como o título, links de elementos externos, etc 
+<title>: título da páginha; 
+<body>: consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
 
-Então, descobri os drivers que atuam conjuntamente com o *selenium* para emular  ação humana. Elegemos o driver do Googe Chrome, devido à capilaridade:
+Bootstrap: é um framework web utilizado para estilizar o projeto web.
 
-![](imgs/20211026-204342.png)
-
-Após, descobri que o *sqlite* era o banco de dados mais simples para servir ao nosso *web bot*, na função de mero repositório de dados:
-![](imgs/20211026-204544.png)
-
-Conseguir implantar o driver e o selenium para acessar o sítio da SSP-SP:
-![](imgs/20211026-204732.png)
-
-Mapeei os campos do sítio da SSP-SP para  que o selenium pudesse atuar  de forma automatizada:
-![](imgs/20211026-204907.png)
-
-Enquanto isso, outro colega conseguiu tratar o arquivo para ser inserido no banco de dados:
-
-![](imgs/20211026-205128.png)
-(Grande parte desta SPRINT foi utilizada para tentar solucionar esse problema: embora o aqruivo baixado viesse denominado de .CSV, o arquivo possui muitos TABS entre dos dados de forma que, nosso código Python  apresentava erros por buscar uma vírgula como delimitador). 
-
-![](imgs/20211026-205144.png)
-
-Outra colega implantou tratamento de erros e limpeza de arquivos utilizados:
-![](imgs/20211026-205241.png)
-
-Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, pesquisei a plotagem de mapa de calor. Ao final, os dois 'competing codes' foram implantados:
-![](imgs/20211026-205450.png)
-
-![](imgs/20211026-205503.png)
+GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer para o usuário uma análise de fácil compreensão, após pesquisar encontrei o GoogleChart para realizar os gráficos mensais dos índices de criminalidade;
 
 
-Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
 **IV - APRENDIZADOS EFETIVOS.**
 
-Tivemos o primeiro contato com a Metodologia Agil, e com as ferramentas para acompanhamento do projeto: Slack, repositório no Gitlab.
+Tivemos o primeiro contato com a Metodologia Agil:
+ 
+com as ferramentas para acompanhamento do projeto: Slack
+ 
+Conhecimneto no repositório no Gitlab:
+ 
+Primeiro contato com a linguagem Python:
+ 
+Primeiro contato com o banco de dados:
+ 
+Aplicamos a lógica de programação no desenvolvimento do projeto API;
+ 
+Grandes ganhos de conhecimento no Front-end;
+ 
 
-Atuei como segundo Scrum Master, pois o facilitador principal (do último semestre) também possuia carga horária assoberbada; assim, realizávamos nossas *dailys* com a equipe, antes do início das aulas, na biblioteca.
-
-Com isso, comecei a perceber e a desenvolver habilidades de SM e de PO. Também percebi minha capacidade de entender  necessidade do cliente e apresentar o resutado do trabalho da equipe (SM), traduzindo a linguagem técnica em linguagem comercial (venda da solução), destacado pontos fortes que interessam aos clientes e tratando os pontos que podem ser melhorados (PO).
 
 Ao final do projeto, percebemos que a utilização da solução poderia ser aproveitada por muitos recortes sociaisi:
 
@@ -157,10 +145,3 @@ Poteciais clientes pagantes:
 -Imobiliárias/Construtoras: com esses dados poderiam traçar o perfil de clientes para determinadas regiões;  
 -Empreendedores: que teriam acesso a informações sobre o perfil da pessoa que frequenta a região, abrindo um restaurante ou loja que atenda a este público alvo.  
 
-No aspecto técnico, descobri grande habilidade de pesquisa e desenvolvimento (R&D), especialmente na literatura no idioma Inglês, capaz de encontrar rapidamente as ferramentas paa servir à equipe e fomentar a composição de uma solução final.
-
-Com a ajuda de ambientes de colaboração (Google Colab e Jupyter), consegui atingir esta agilidade e os colegas com mais habilidades técnicas de integração nos blocos de códigos contribuiram efetivamente para a inteireza do código fonte final.
-
-Aprendi a utilizar as bibliotecas do Python listadas acima, com razoável velocidade.
-
-Assim, é esperado o aproveitamento desde aprendizado para trabalho comercial técnico em TI, Ciência de Dados para fazer sentido do volume de dados atualmente produzido em todos os setores, bem como na a coordenação de equipes multidisciplianares, em múltiplos idiomas e diversidade cultural.
