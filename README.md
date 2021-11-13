@@ -131,10 +131,10 @@ Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para 
 Grandes ganhos de conhecimento no Front-end que estamos usando até hoje e nos aperfeiçoando cada vez mais, aprendemos sobre:
 
 O HTML: é uma linguagem de marcação utilizada na construção de páginas na Web.
-(<html>): Deve iniciar e finalizar o projeto web com essa tag;
-(<head>): inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
-(<title>): informa o título da página; 
-(<body>): consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
+(html): Deve iniciar e finalizar o projeto web com essa tag;
+(head): inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
+(title): informa o título da página; 
+(body): consiste no corpo do nosso documento, onde ficam todos os elementos que serão renderizados na tela do navegador;
 
 Bootstrap: é um framework web foi utilizado para estilizar a página web.
 
