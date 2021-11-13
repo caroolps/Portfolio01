@@ -46,7 +46,7 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 
 2 – Obtenção de dados do sítio Transparência SSP-SP;​
 
-![](imgs/20211026-205948.png)
+![20211026-205948](https://user-images.githubusercontent.com/61089745/141654319-476e8427-220e-482b-a289-de10f10399b3.png)
 
 ![](imgs/20211026-210008.png)
 
