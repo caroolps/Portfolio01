@@ -23,7 +23,7 @@ Com uma variedade virtualmente infindável de usos, os WB podem ser utilizados t
 
  
 
-**I - RESUMO DO PROJETO.
+**I - RESUMO DO PROJETO**
 
 O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega de um Mapeador de Criminalidade ao Redor da FATEC.
 
