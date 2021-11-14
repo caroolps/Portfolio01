@@ -1,4 +1,4 @@
-LIST OF ACADEMIC PROJECTS:
+LISTA DOS PORTFÓLIOS:
 
 [PROJECT-SEMESTRE-01-2019.2 - * DANZO - Mapeador de Criminalidade ao Redor da FATEC *](https://github.com/caroolps/Portfolio01) 
 
@@ -11,7 +11,7 @@ LIST OF ACADEMIC PROJECTS:
 [PROJECT-SEMESTRE-05-2021.2 - * Pentaho & Data Warehouse Analytics of Education * ](https://github.com/caroolps/Portfolio05) 
 
 
-**FIRST PROJECT, SEMESTRE-01-2019.2 - *Python Web Scrapping - Public Safety Monitor***
+**PRIMEIRO PROJETO, SEMESTRE-01-2019.2 - *Danzo - Mapeador de Criminalidade ao Redor da FATEC***
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
@@ -23,7 +23,7 @@ Com uma variedade virtualmente infindável de usos, os WB podem ser utilizados t
 
  
 
-I - DESCRIÇÃO DO PROJETO.
+**I - RESUMO DO PROJETO.
 
 O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega de um Mapeador de Criminalidade ao Redor da FATEC.
 
