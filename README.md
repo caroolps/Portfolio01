@@ -12,11 +12,11 @@ LISTA DOS PORTFÓLIOS:
 
 
 
-**PRIMEIRO PROJETO, SEMESTRE-01-2019.2 - *Danzo - Mapeador de Criminalidade ao Redor da FATEC***
+### **PRIMEIRO PROJETO, SEMESTRE-01-2019.2 - *Danzo - Mapeador de Criminalidade ao Redor da FATEC***
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-**INTRODUÇÃO**
+### **INTRODUÇÃO**
 
 Foi proposto a implantação de um Web bot, que consiste num programa ou conjunto de instruções em código que verifica a teia mundial (W.W.W.) de forma metódica ou automatizada. Este processo tem no seu cerne uma função básica chamada de Web crawling ou spidering. A literatura atual tende a identificar o Web crawler e o Web bot como sinônimos. Para fins deste projeto, o web bot [doravante denominado WB] consiste num robô da Internet que vasculha por dados determinados nas instruções do código de programação e geral certos resultados que tenham valor para o cliente (product owner).
 O WB podem ser utilizados para copiar dados de páginas da Internet que se queira vasculhar, verificando links e validar códigos HTML. Além disso, podem ser utilizados para obter dados especificados previamente, tal qual endereços de e-mail (geralmente para que se crie uma lista de SPAM), ou dados estatísticos em geral.
