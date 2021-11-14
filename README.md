@@ -24,7 +24,7 @@ Com uma variedade virtualmente infindável de usos, os WB podem ser utilizados t
 
  
 
-**I - RESUMO DO PROJETO**
+### **I - RESUMO DO PROJETO**
 
 O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega de um Mapeador de Criminalidade ao Redor da FATEC.
 
@@ -72,7 +72,7 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 ![20211026-210136](https://user-images.githubusercontent.com/61089745/141654411-19785ac1-3ee0-417b-bef6-5846348bdd2d.png)
 
 
-**II - TECNOLOGIAS**
+### **II - TECNOLOGIAS**
 
 Em fase inicial do aprendizado, a equipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
 
@@ -90,7 +90,7 @@ As bibliotecas mais importantes foram:
 
 - flask_googlecharts: é uma biblioteca para geração de gráficos, por ser uma das melhores bibiliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
 
-**III - CONTRIBUIÇÕES INDIVIDUAIS.**
+### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
 Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa região. Ficando definido o mapeamento por de roubo de Veículos, furto de veículos e roubo de celular.
 
@@ -115,7 +115,7 @@ GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer 
 
 
 
-**IV - APRENDIZADOS EFETIVOS.**
+### **IV - APRENDIZADOS EFETIVOS.**
 
 Tivemos o primeiro contato com a Metodologia Agil: Scrum é uma metodologia utilizada para gerenciar o trabalho em produtos complexos desde o início de 1990.
 O termo “scrum” vem do meio esportivo: no jogo de rugby este termo refere-se ao reinício da partida após uma infração leve, tratando-se, em elaboração de um projeto como uma área ou tela estrutura (framework estrutural) para colacionar ideias.
