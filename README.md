@@ -85,9 +85,9 @@ Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisõ
 ![20211026-202145](https://user-images.githubusercontent.com/61089745/141654512-9f4b0c92-4ff9-4652-ba2d-e76891106934.png)
 
 
-Como eu estava vindo da área administrativa, sem ter contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto, como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projeto Web bot Danzo.
+Como eu estava vindo da área administrativa, sem ter contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projeto Web bot Danzo.
 
-O HTML: É uma linguagem de marcação utilizada na construção de páginas na Web. Com ela eu desenvolvi o esqueleto do projeto usandos as tags:
+O HTML: É uma linguagem de marcação utilizada na construção de páginas na Web com ela eu desenvolvi o esqueleto do projeto usandos as tags:
 
 - html: Iniciei e finalizei o projeto web com essa tag;
 
@@ -105,13 +105,11 @@ GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer 
 
 ### **IV - APRENDIZADOS EFETIVOS.**
 
-Tivemos o primeiro contato com a Metodologia Agil: Scrum é uma metodologia utilizada para gerenciar o trabalho em produtos complexos desde o início de 1990.
-O termo “scrum” vem do meio esportivo: no jogo de rugby este termo refere-se ao reinício da partida após uma infração leve, tratando-se, em elaboração de um projeto como uma área ou tela estrutural (framework estrutural) para colacionar ideias.
-É composta por ciclos de atividades programadas — os sprints —, com planejamento de tarefas e datas de início e de fim determinados, ou sej, é um framework no qual pessoas podem solucionar problemas complexos e soluções adaptativas, enquanto criam de forma produtiva agregando o mais alto valor possível.
+Tivemos o primeiro contato com a Metodologia Agil: Scrum é uma metodologia utilizada para gerenciar trabalho em produtos complexos, o Scrum é composto por ciclos de atividades programadas — os sprints —, com planejamento de tarefas e datas de início e de fim determinados, ou seja, é um framework no qual pessoas podem solucionar problemas complexos e soluções adaptativas, enquanto criam de forma produtiva agregando o mais alto valor possível ao produto.
  
-Canal de comunuicação SLACK: Não tinha conhecimento sobre esse serviço de comunicação e por fim o Slack se tornou uma das principais ferramentas de comunição utilizadas para o desenvolvimento do Projeto Integrador, pois é um meio de comunicação ágil e instantâneo, por este canal era decidido os próximos encontros presenciais, saneamentos de dúvidas das atividades desenvolvidas, etc.
+Canal de comunicação SLACK: Não tinha conhecimento sobre esse serviço de comunicação e por fim o Slack se tornou uma das principais ferramentas de comunição utilizadas para o desenvolvimento do Projeto Integrador, pois é um meio de comunicação ágil e instantâneo, neste canal era decidido os próximos encontros presenciais, saneamentos de dúvidas das atividades desenvolvidas, etc.
  
-Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos, foi nos apresentados essa tecnologia que utilizamos até hoje. Aprendemos o principais comandos como: 
+Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos e de formada gratuita, o nosso Master nos apresentou essa tecnologia que utilizamos até hoje. Aprendemos o principais comandos como: 
 
 - Adicionar um diretório em específico: git add meu_diretorio
 - Clonar um repositório: git clone
