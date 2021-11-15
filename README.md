@@ -6,9 +6,6 @@
 
 [PROJECT-SEMESTRE-03-2020.2 - **Cadastro Positivo**](https://github.com/caroolps/Portfolio03) 
 
-[PROJECT-SEMESTRE-04-2021.1 - **Oracle HR Solution  for searching candidates via API** ](https://github.com/caroolps/Portfolio04) 
-
-[PROJECT-SEMESTRE-05-2021.2 - **Pentaho & Data Warehouse Analytics of Education** ](https://github.com/caroolps/Portfolio05) 
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
