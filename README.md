@@ -75,8 +75,13 @@ As bibliotecas mais importantes foram:
 -  Folium:  Biblioteca do Python que facilita a visualização dos dados em um mapa interativo, no projeto essa bibilioteca nos auxiliou a manipular os dados no mapa de calor que que mostrava as regiões que com mais índice de criminalidade ao redor da Fatec.
 
 - Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado.
+![image](https://user-images.githubusercontent.com/61089745/142065208-a891d031-1f9a-42d7-9acc-da35a3d9444b.png)
+
 
 - Flask_googlecharts: É uma biblioteca para geração de gráficos, por ser uma das melhores bibliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
+
+![image](https://user-images.githubusercontent.com/61089745/142064915-1fd3c486-2011-440c-b273-25a188a1c426.png)
+
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
@@ -99,8 +104,11 @@ O HTML: É uma linguagem de marcação utilizada na construção de páginas na 
 
 Bootstrap: é um framework Web, foi utilizado para estilizar o projeto Web e tornar responsivo.
 
+![image](https://user-images.githubusercontent.com/61089745/142065476-458a83c1-5485-42ff-9c9c-dddb27a59386.png)
+
 GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer ao usuário uma análise de fácil compreensão, após pesquisas encontrei o GoogleChart para realizar os gráficos mensais dos índices de criminalidade;
 
+![image](https://user-images.githubusercontent.com/61089745/142064705-24a6559e-5b52-40b4-9df3-1c50e95fb781.png)
 
 
 ### **IV - APRENDIZADOS EFETIVOS.**
@@ -134,7 +142,6 @@ O HTML: é uma linguagem de marcação utilizada na construção de páginas na 
 Bootstrap: É um framework web foi utilizado para estilizar a página web.
 
 GoogleChart: Biblioteca para geração de gráficos;
-
  
 Ao final do projeto, percebemos que a utilização da solução poderia ser aproveitada por muitas áreas sociais:
 
