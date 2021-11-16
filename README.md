@@ -74,7 +74,7 @@ As bibliotecas mais importantes foram:
 
 -  Folium:  Biblioteca do Python que facilita a visualização dos dados em um mapa interativo, no projeto essa bibilioteca nos auxiliou a manipular os dados no mapa de calor que que mostrava as regiões que com mais índice de criminalidade ao redor da Fatec.
 
-- Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado.
+- Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado. O Scrum Master nos apresentou esse framework.
 ![image](https://user-images.githubusercontent.com/61089745/142065208-a891d031-1f9a-42d7-9acc-da35a3d9444b.png)
 
 
