@@ -159,4 +159,4 @@ Poteciais clientes pagantes:
 -Imobiliárias/Construtoras: com esses dados poderiam traçar o perfil de clientes para determinadas regiões;  
 -Empreendedores: que teriam acesso a informações sobre o perfil da pessoa que frequenta a região, abrindo um restaurante ou loja que atenda a este público alvo.  
 
-A equipe pensa em continuar o desenvolvimento da aplicação para comercialização uma futura comercialização.
+A equipe pensa em continuar o desenvolvimento da aplicação para uma futura comercialização.
