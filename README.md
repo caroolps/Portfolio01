@@ -20,9 +20,9 @@ Houve dificuldades de natureza humana, estrutural e tecnológica. No primero sem
 
 Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
 
-Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comerciaização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
+Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
 
-Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
+Neste semestre, como estreia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
 
 Assim, implantamos uma metodologia que denominamos "competing codes". Dois colegas buscavam solução para o mesmo problema, vencendo o código que melhor atendesse as necessidades dos projetos.
 
@@ -70,26 +70,26 @@ As bibliotecas mais importantes foram:
 
 - Selenium: Emulação de ações humanas para acessar o sitio da Secretaria de Segurança Pública do Estado de São Paulo, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
 
--  Pandas: Agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "Python para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados.
+-  Pandas: Agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "Python para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final.
 
 -  Folium:  Biblioteca do Python que facilita a visualização dos dados em um mapa interativo, no projeto essa bibilioteca nos auxiliou a manipular os dados no mapa de calor que que mostrava as regiões que com mais índice de criminalidade ao redor da Fatec.
 
 - Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado.
 
-- Flask_googlecharts: É uma biblioteca para geração de gráficos, por ser uma das melhores bibiliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
+- Flask_googlecharts: É uma biblioteca para geração de gráficos, por ser uma das melhores bibliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa região. Ficando definido o mapeamento por de roubo de Veículos, furto de veículos e roubo de celular.
+Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa região. Ficando definido o mapeamento por de roubo de veículos, furto de veículos e roubo de celular.
 
 ![20211026-202145](https://user-images.githubusercontent.com/61089745/141654512-9f4b0c92-4ff9-4652-ba2d-e76891106934.png)
 
 
-Como eu estava vindo da área administrativa, sem ter contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projeto Web bot Danzo.
+Como eu estava vindo da área administrativa sem ter contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projeto Web bot Danzo.
 
-O HTML: É uma linguagem de marcação utilizada na construção de páginas na Web com ela eu desenvolvi o esqueleto do projeto usandos as tags:
+O HTML: É uma linguagem de marcação utilizada na construção de páginas na Web com ela eu desenvolvi o esqueleto do projeto usando as tags:
 
-- html: Iniciei e finalizei o projeto web com essa tag;
+- html: Iniciei e finalizei o projeto Web com essa tag;
 
 - head: Inseri todas as informações básicas da página, como o título, links de elementos externos, etc; 
 
@@ -97,7 +97,7 @@ O HTML: É uma linguagem de marcação utilizada na construção de páginas na 
 
 - body: Consiste no corpo do nosso documento, onde se concentram todos os elementos que serão renderizados na tela do navegador;
 
-Bootstrap: é um framework web foi utilizado para estilizar o projeto web e tornar responsivo.
+Bootstrap: é um framework Web, foi utilizado para estilizar o projeto Web e tornar responsivo.
 
 GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer ao usuário uma análise de fácil compreensão, após pesquisas encontrei o GoogleChart para realizar os gráficos mensais dos índices de criminalidade;
 
@@ -107,9 +107,9 @@ GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer 
 
 Tivemos o primeiro contato com a Metodologia Agil: Scrum é uma metodologia utilizada para gerenciar trabalho em produtos complexos, o Scrum é composto por ciclos de atividades programadas — os sprints —, com planejamento de tarefas e datas de início e de fim determinados, ou seja, é um framework no qual pessoas podem solucionar problemas complexos e soluções adaptativas, enquanto criam de forma produtiva agregando o mais alto valor possível ao produto.
  
-Canal de comunicação SLACK: Não tinha conhecimento sobre esse serviço de comunicação e por fim o Slack se tornou uma das principais ferramentas de comunição utilizadas para o desenvolvimento do Projeto Integrador, pois é um meio de comunicação ágil e instantâneo, neste canal era decidido os próximos encontros presenciais, saneamentos de dúvidas das atividades desenvolvidas, etc.
+Canal de comunicação SLACK: Não tinha conhecimento sobre esse serviço de comunicação e por fim o Slack se tornou uma das principais ferramentas de comunicação utilizadas para o desenvolvimento do Projeto Integrador, pois é um meio de comunicação ágil e instantâneo, neste canal era decidido os próximos encontros presenciais, saneamentos de dúvidas das atividades desenvolvidas, etc.
  
-Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos e de formada gratuita, o nosso Master nos apresentou essa tecnologia que utilizamos até hoje. Aprendemos o principais comandos como: 
+Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos e de formada gratuita. O Scrum Master nos apresentou essa tecnologia que utilizamos até hoje. Aprendemos o principais comandos como: 
 
 - Adicionar um diretório em específico: git add meu_diretorio
 - Clonar um repositório: git clone
@@ -151,3 +151,4 @@ Poteciais clientes pagantes:
 -Imobiliárias/Construtoras: com esses dados poderiam traçar o perfil de clientes para determinadas regiões;  
 -Empreendedores: que teriam acesso a informações sobre o perfil da pessoa que frequenta a região, abrindo um restaurante ou loja que atenda a este público alvo.  
 
+A equipe pensa em continuar o desenvolvimento da aplicação para comercialização uma futura comercialização.
