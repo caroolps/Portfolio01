@@ -1,14 +1,14 @@
-# LISTA PORTFÓLIOS
+## 📚 Seções
 
-[PROJECT-SEMESTRE-01-2019.2 - **DANZO - Mapeador de Criminalidade ao Redor da FATEC**](https://github.com/caroolps/Portfolio01) 
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio01">PROJETO 1º SEMESTRE: Mapeador de Criminalidade ao Redor da FATEC</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio02">PROJETO 2º SEMESTRE: Gantt Chart</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio03">PROJETO 3º SEMESTRE: Cadastro Positivo</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio04">PROJETO 4º SEMESTRE: Projeto04</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio05">PROJETO 5º SEMESTRE: Projeto05</a></h4>
 
-[PROJECT-SEMESTRE-02-2020.1 - **GANTT CHART**](https://github.com/caroolps/Portfolio02)
+<br></br>
 
-[PROJECT-SEMESTRE-03-2020.2 - **CADASTRO POSITIVO**](https://github.com/caroolps/Portfolio03) 
-
-
-
-# **PRIMEIRO PROJETO, SEMESTRE-01-2019.2 - *Danzo - Mapeador de Criminalidade ao Redor da FATEC***
+# *Mapeador de Criminalidade ao Redor da FATEC***
 
 
 ### **I - RESUMO DO PROJETO**
