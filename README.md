@@ -31,22 +31,22 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 
 2 – Obtenção de dados do sítio Transparência SSP-SP;​
 
-![20211026-205948](https://user-images.githubusercontent.com/61089745/141654319-476e8427-220e-482b-a289-de10f10399b3.png)
+![image](https://user-images.githubusercontent.com/61089745/159133372-f87f3e0d-b9ea-4f03-8d93-75857ad17c07.png)
 
-![20211026-210008](https://user-images.githubusercontent.com/61089745/141654347-d9c9a67f-6d83-42da-a74d-f9a642c87c6d.png)
+![image](https://user-images.githubusercontent.com/61089745/159133530-2f6e4b2e-bbb1-4faf-b658-40275f6fb919.png)
 
-![20211026-210019](https://user-images.githubusercontent.com/61089745/141654358-6f0af4f7-3206-4431-bd10-2083ab2060eb.png)
+![image](https://user-images.githubusercontent.com/61089745/159133602-ee67df9e-8152-4d45-9716-33078d9e38d0.png)
 
-![20211026-210044](https://user-images.githubusercontent.com/61089745/141654366-f3a1d2ad-51ee-4cce-91b1-9d8532462026.png)
+![image](https://user-images.githubusercontent.com/61089745/159133671-8f088965-f13f-4ec3-aad1-15176628a156.png)
 
-![20211026-210057](https://user-images.githubusercontent.com/61089745/141654374-478e1889-1416-4001-aa37-3ba2fe5bb306.png)
+![image](https://user-images.githubusercontent.com/61089745/159133727-3618eb50-7809-4688-b5fa-cb522b1b9a7e.png)
 
 
 3 – Tratamento de arquivo obtido: criação de pasta local, renomeação;​
 
 4 – Tratamento de dados: Leitura do arquivo obtido, coluna por coluna LISTAS, para  inserção em BD;​
 
-![20211026-210117](https://user-images.githubusercontent.com/61089745/141654394-86b1efdc-3213-4dde-99bc-9aed04b2841f.png)
+![image](https://user-images.githubusercontent.com/61089745/159133838-42e43854-1c59-4eb6-9750-aa23bd9ac848.png)
 
 5 – Inserção incremental em BD Sqlite3;​
 
@@ -54,7 +54,7 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 
 7 – Apresentação dos dados: mapa de calor, barras; ​
 
-![20211026-210136](https://user-images.githubusercontent.com/61089745/141654411-19785ac1-3ee0-417b-bef6-5846348bdd2d.png)
+![image](https://user-images.githubusercontent.com/61089745/159133870-acb11ea9-4946-4658-9d5a-0e2a21ee48fa.png)
 
 
 ### **II - TECNOLOGIAS**
@@ -73,17 +73,17 @@ As bibliotecas mais importantes foram:
 
 - Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado. O Scrum Master nos apresentou esse framework.
 
-![image](https://user-images.githubusercontent.com/61089745/142065208-a891d031-1f9a-42d7-9acc-da35a3d9444b.png)
+![image](https://user-images.githubusercontent.com/61089745/159133931-4f4a582b-12c4-4492-be4b-e6ec19481b76.png)
 
 
 - Flask_googlecharts: É uma biblioteca para geração de gráficos, por ser uma das melhores bibliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
 
-![image](https://user-images.githubusercontent.com/61089745/142064915-1fd3c486-2011-440c-b273-25a188a1c426.png)
+![image](https://user-images.githubusercontent.com/61089745/159133982-473e42d1-daa9-4e4f-b96b-a08723a3337e.png)
 
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, contribui em informar os roubos com mais incidências na região. Sendo as criminalidades por roubo de veículos, furto de veículos e roubo de celular.
+Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, contribui em informar os roubos com mais incidências na região. Sendo as criminalidades por roubo de veículos, furto de veículos, roubo de celular e latrocínio.
 
 ![20211026-202145](https://user-images.githubusercontent.com/61089745/141654512-9f4b0c92-4ff9-4652-ba2d-e76891106934.png)
 
@@ -104,11 +104,11 @@ O HTML: É uma linguagem de marcação utilizada na construção de páginas na 
 
 Bootstrap: é um framework Web, foi utilizado para estilizar o projeto Web e tornar responsivo.
 
-![image](https://user-images.githubusercontent.com/61089745/142065476-458a83c1-5485-42ff-9c9c-dddb27a59386.png)
+![image](https://user-images.githubusercontent.com/61089745/159134043-5042ca00-cf9d-4a80-9f1c-6288409633fa.png)
 
 GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer ao usuário uma análise de fácil compreensão, após pesquisas encontrei o GoogleChart para realizar os gráficos mensais dos índices de criminalidade;
 
-![image](https://user-images.githubusercontent.com/61089745/142064705-24a6559e-5b52-40b4-9df3-1c50e95fb781.png)
+![image](https://user-images.githubusercontent.com/61089745/159134093-087b47a1-767c-4a12-be0c-91d898f25ed6.png)
 
 
 ### **IV - APRENDIZADOS EFETIVOS.**
