@@ -13,7 +13,7 @@
 ## Mapeador de Criminalidade ao Redor da FATEC :pushpin:
 
 
-### **I - RESUMO DO PROJETO**
+### **I - RESUMO DO PROJETO**:page_facing_up: 
 
 O primeiro projeto integrador trouxe o tema 'web bot' escolhido pelos docentes da faculdade, porém com liberdade para buscar ferramentas tecnológicas e o tipo de raspagem de dados.
 
@@ -57,7 +57,7 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 ![image](https://user-images.githubusercontent.com/61089745/159133870-acb11ea9-4946-4658-9d5a-0e2a21ee48fa.png)
 
 
-### **II - TECNOLOGIAS**
+### **II - TECNOLOGIAS**:iphone:
 
 Em fase inicial do aprendizado, a equipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
 
@@ -65,12 +65,16 @@ No contexto do Python, contamos com a orientação do Docente e muita pesquisa e
 
 As bibliotecas mais importantes foram:
 
+![image](https://user-images.githubusercontent.com/61089745/159134292-1127f6aa-e24d-43d0-b587-dcef8b5ce532.png)
 - Selenium: Emulação de ações humanas para acessar o sitio da Secretaria de Segurança Pública do Estado de São Paulo, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
 
+![image](https://user-images.githubusercontent.com/61089745/159134415-b278bad6-9f54-4adf-b086-1c40a02c387c.png)
 -  Pandas: Agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "Python para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final.
 
+![image](https://user-images.githubusercontent.com/61089745/159134484-cd0d053d-e74d-4c45-99d2-697d615f9361.png)
 -  Folium:  Biblioteca do Python que facilita a visualização dos dados em um mapa interativo, no projeto essa bibilioteca nos auxiliou a manipular os dados no mapa de calor que que mostrava as regiões que com mais índice de criminalidade ao redor da Fatec.
 
+![image](https://user-images.githubusercontent.com/61089745/159134535-daf063c7-dc28-4974-a029-0a5fc5f78109.png)
 - Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado. O Scrum Master nos apresentou esse framework.
 
 ![image](https://user-images.githubusercontent.com/61089745/159133931-4f4a582b-12c4-4492-be4b-e6ec19481b76.png)
@@ -81,7 +85,7 @@ As bibliotecas mais importantes foram:
 ![image](https://user-images.githubusercontent.com/61089745/159133982-473e42d1-daa9-4e4f-b96b-a08723a3337e.png)
 
 
-### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
+### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
 
 Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, contribui em informar os roubos com mais incidências na região. Sendo as criminalidades por roubo de veículos, furto de veículos, roubo de celular e latrocínio.
 
@@ -111,7 +115,7 @@ GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer 
 ![image](https://user-images.githubusercontent.com/61089745/159134093-087b47a1-767c-4a12-be0c-91d898f25ed6.png)
 
 
-### **IV - APRENDIZADOS EFETIVOS.**
+### **IV - APRENDIZADOS EFETIVOS**:closed_book:
 
 **Soft Skills Efetivamente Desenvolvidas:**
 
