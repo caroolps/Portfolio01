@@ -15,13 +15,9 @@
 
 ### **I - RESUMO DO PROJETO**
 
-O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega de um Mapeador de Criminalidade ao Redor da FATEC.
+O primeiro projeto integrador trouxe o tema 'web bot' escolhido pelos docentes da faculdade, porém com liberdade para buscar ferramentas tecnológicas e o tipo de raspagem de dados.
 
-Houve dificuldades de natureza humana, estrutural e tecnológica. No primero semestre, encontrando pela primeira vez os colegas e professores, com limitações estruturais e conhecendo novo vocabulário: nomes e neologismos, bem como de gerência de projetos, ambos de TI (metodologia Agile).
-
-Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
-
-Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
+Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias. Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
 
 Neste semestre, como estreia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
 
@@ -87,12 +83,14 @@ As bibliotecas mais importantes foram:
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, pude contribuir em informar os roubos que mais acontecem nessa região. Ficando definido o mapeamento por de roubo de veículos, furto de veículos e roubo de celular.
+Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisões de que tipo de criminalidade deveríamos enfatizar, por morar na região da FATEC, contribui em informar os roubos com mais incidências na região. Sendo as criminalidades por roubo de veículos, furto de veículos e roubo de celular.
 
 ![20211026-202145](https://user-images.githubusercontent.com/61089745/141654512-9f4b0c92-4ff9-4652-ba2d-e76891106934.png)
 
 
-Como eu estava vindo da área administrativa sem ter contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi o front-end do projeto. Ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projeto Web bot Danzo. Porém, com suporte e orientação do Scrum Master no desenvolvimento da aplicação.
+Após definição dos índices de Criminalidade que o bot iria realizar a raspagem de dados. A equipe iniciou o brainstorm de quais tecnologias seriam usadas para o projeto, como eu estava vindo da área administrativa sem nunca ter tido contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi a responsabilidade de fazer o front-end do projeto. Para isso ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projeto Web bot Danzo. Ressalto que na entrega do front-end obtive suporte e orientação do Scrum Master no desenvolvimento da aplicação.
+
+**Skills Efetivamente Desenvolvidas:**
 
 O HTML: É uma linguagem de marcação utilizada na construção de páginas na Web com ela eu desenvolvi o esqueleto do projeto usando as tags:
 
@@ -115,10 +113,16 @@ GoogleChart: Como o foco era mostrar os índices de criminalidade para oferecer 
 
 ### **IV - APRENDIZADOS EFETIVOS.**
 
+**Soft Skills Efetivamente Desenvolvidas:**
+
+Autonomia para aprender novas tenologias através de vídeos e pesquisas pelo Google.
+
 Tivemos o primeiro contato com a Metodologia Agil: Scrum é uma metodologia utilizada para gerenciar trabalho em produtos complexos, o Scrum é composto por ciclos de atividades programadas — os sprints —, com planejamento de tarefas e datas de início e de fim determinados, ou seja, é um framework no qual pessoas podem solucionar problemas complexos e soluções adaptativas, enquanto criam de forma produtiva agregando o mais alto valor possível ao produto.
  
 Canal de comunicação SLACK: Não tinha conhecimento sobre esse serviço de comunicação e por fim o Slack se tornou uma das principais ferramentas de comunicação utilizadas para o desenvolvimento do Projeto Integrador, pois é um meio de comunicação ágil e instantâneo, neste canal era decidido os próximos encontros presenciais, saneamentos de dúvidas das atividades desenvolvidas, etc.
- 
+
+ **Hard Skills Efetivamente Desenvolvidas:**
+
 Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos e de formada gratuita. O Scrum Master nos apresentou essa tecnologia que utilizamos até hoje. Aprendemos o principais comandos como: 
 
 - Adicionar um diretório em específico: git add meu_diretorio
