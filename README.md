@@ -94,7 +94,7 @@ Na definição do MVP (MINIMUM VIABLE PRODUCT) participei ativamente nas decisõ
 
 Após definição dos índices de Criminalidade que o bot iria realizar a raspagem de dados. A equipe iniciou o brainstorm de quais tecnologias seriam usadas para o projeto, como eu estava vindo da área administrativa sem nunca ter tido contato com a parte de programação, foi desafiador o aprendizado de uma linguagem backend e o contato com o banco de dados. Portanto como alguns integrantes da equipe já estavam mais familiarizados com essas tecnologias eu assumi a responsabilidade de fazer o front-end do projeto. Para isso ingressei em cursos online para entender como funcionava uma aplicação web e acabei trazendo as tecnologias de HTML, Bootstrap e GoogleChart para o Projeto Web bot Danzo. Ressalto que na entrega do front-end obtive suporte e orientação do Scrum Master no desenvolvimento da aplicação.
 
-**Skills Efetivamente Desenvolvidas:**
+Estrutura desenvolvida:
 
 O HTML: É uma linguagem de marcação utilizada na construção de páginas na Web com ela eu desenvolvi o esqueleto do projeto usando as tags:
 
