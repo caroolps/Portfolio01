@@ -128,7 +128,7 @@ Canal de comunicação SLACK: Não tinha conhecimento sobre esse serviço de com
 
  **Hard Skills Efetivamente Desenvolvidas:**
 
-Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos e de formada gratuita. O Scrum Master nos apresentou essa tecnologia que utilizamos até hoje. Aprendemos o principais comandos como: 
+Conhecimento no repositório no Gitlab: Não sabia que existia ferramentas para guardar e compartilhar códigos e de formada gratuita. O Scrum Master nos apresentou essa tecnologia que utilizamos até hoje. Aprendemos os principais comandos como: 
 
 - Adicionar um diretório em específico: git add meu_diretorio
 - Clonar um repositório: git clone
